@@ -35,9 +35,29 @@ Background
      system (BIOS) chip, which stores the card's settings and performs diagnostics on the memory, input and output at startup. A 
      graphics card's processor, called a graphics processing unit (GPU). 
      
+  - GPU: 
+    GPU stands for Graphics Processing Unit. It’s the brain of the graphics card and is what creates the visuals you see on the screen.  
+    How powerful those GPU’s are will vary on the model you select.
+    
+    The GPU works as a translator, it takes data coming from the CPU and transforms it into imagery. More complex visuals, like you find 
+    in high-definition games require more complex and quicker GPUs to accommodate the stream of data. 
+    
+Types of Graphics Cards
+  - Integrated: 
+    Graphics built into the motherboard where no add-in card is used. You’ll find these built into most ‘standard’ laptops and 
+    computers, they are a cost-effective model but cannot be easily upgraded. 
+    
+  - Discrete: 
+    An add-in graphics card that is installed on to the motherboard as an extra component. Ideal for those wanting to modify their 
+    system by upgrading the graphics cards.
+    
+    Most people using a modern computer for standard tasks like surfing the internet, creating documents or watching movies will be fine 
+    using the integrated graphics.
+    
+    For users branching out into gaming or video editing, a discrete graphics card is usually needed to speed up the image processing 
+    time. Without this, the user may find their game lagging or jittering at crucial points. 
      
-     
-     
+    
      
      
      
